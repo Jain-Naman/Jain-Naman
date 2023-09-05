@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
-<h3 align="center">An avid learner from India.</h3>
+<h3 align="center">An avid learner </h3>
 
 - 🌱 I’m currently learning **Quantum Machine Learning and Artificial Intelligence.**
 
